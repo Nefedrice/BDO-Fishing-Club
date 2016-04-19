@@ -1,0 +1,32 @@
+{
+  "FishSpotPosition": {
+    "X": -185923.28125,
+    "Y": -8245.259765625,
+    "Z": 175163.421875
+  },
+  "FishSpotRotation": 3.884046792984,
+  "RepairNpcName": "",
+  "RepairNpcPosition": {
+    "X": 0,
+    "Y": 0,
+    "Z": 0
+  },
+  "TradeManagerNpcName": "Lolly",
+  "TradeManagerNpcPosition": {
+    "X": -141801.0,
+    "Y": 615.24597167969,
+    "Z": 127715.0
+  },
+  "VendorNpcName": "Kyrio",
+  "VendorNpcPosition": {
+    "X": -140281.0,
+    "Y": -6865.1801757813,
+    "Z": 172421.0
+  },
+  "WarehouseNpcName": "Makuum",
+  "WarehouseNpcPosition": {
+    "X": -138739.0,
+    "Y": 809.27301025391,
+    "Z": 121969.0
+  }
+}

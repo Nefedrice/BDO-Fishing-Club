@@ -1,0 +1,112 @@
+{
+  "ConsumablesSettings": {
+    "Consumables": [ {
+      "ConditionName": "Time",
+      "ConditionValue": 3,
+      "Name": "None"
+    } ],
+    "ConsumeWait": 8,
+    "PreConsumeWait": 2,
+    "SecondsBetweenTries": 0.25
+  },
+  "DeleteUsedRods": true,
+  "HookFishHandleGameSettings": {
+    "NoDelay": false
+  },
+  "InventoryDeleteSettings": {
+    "DeleteDepletedItems": [],
+    "DeleteItems": [],
+    "SecondsBetweenTries": 60
+  },
+  "LastProfileName": "FishingClub-Olivia",
+  "LibConsumablesSettings": {
+    "Consumables": [],
+    "ConsumeWait": 1,
+    "PreConsumeWait": 0,
+    "SecondsBetweenTries": 0.25
+  },
+  "LootSettings": {
+    "IgnoreUntradeAbleItems": false,
+    "LootBlue": true,
+    "LootBlueAndAbove": true,
+    "LootEggs": false,
+    "LootGold": true,
+    "LootGoldAndAbove": true,
+    "LootGreen": false,
+    "LootGreenAndAbove": false,
+    "LootKeys": false,
+    "LootOrange": true,
+    "LootOrangeAndAbove": true,
+    "LootShards": true,
+    "LootWhite": false,
+    "LootWhiteAndAbove": false
+  },
+  "PrintConsoleState": true,
+  "RepairSettings": {
+    "NpcName": "",
+    "NpcPosition": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
+    },
+    "SecondsBetweenTries": 3000
+  },
+  "TradeManagerSettings": {
+    "DoTradeGame": false,
+    "IgnoreItemsNamed": [],
+    "NpcName": "Lolly",
+    "NpcPosition": {
+      "X": -141801.0,
+      "Y": 615.24597167969,
+      "Z": 127715.0
+    },
+    "SecondsBetweenTries": 3000,
+    "SellAll": true,
+    "TradeManagerOnInventoryFull": true
+  },
+  "VendorBlue": false,
+  "VendorGreen": true,
+  "VendorOnInventoryFull": true,
+  "VendorOnWeight": false,
+  "VendorSettings": {
+    "BuyEnabled": true,
+    "BuyItems": [],
+    "BuyWhenAtVendor": true,
+    "IgnoreItemsNamed": [ "Grain Soup", "Beer\u0000\u0000\u0000", "Sute Tea" ],
+    "NpcName": "Kyrio",
+    "NpcPosition": {
+      "X": -140281.0,
+      "Y": -6865.1801757813,
+      "Z": 172421.0
+    },
+    "SecondsBetweenTries": 3000,
+    "SellEnabled": true,
+    "VendorBlue": false,
+    "VendorGold": false,
+    "VendorGreen": false,
+    "VendorOnInventoryFull": false,
+    "VendorOnWeight": false,
+    "VendorWhite": false,
+    "VendorafterTradeManager": false
+  },
+  "VendorWhite": false,
+  "VendorafterTradeManager": true,
+  "WarehouseAfterTradeManager": true,
+  "WarehouseAfterVendor": false,
+  "WarehouseSettings": {
+    "DepositAfterRepair": false,
+    "DepositAfterTradeManager": true,
+    "DepositAfterVendor": false,
+    "DepositItems": true,
+    "DepositMoney": true,
+    "IgnoreItemsNamed": [ "Fishing Rod", "Beer\u0000\u0000\u0000", "Steel Fishing Rod", "Sute Tea", "Moray\u0000\u0000", "Swordfish", "Sandfish", "Sea Eel", "Tilefish", "Mackerel", "Beltfish" ],
+    "MoneyToKeep": 10000,
+    "NpcName": "Makuum",
+    "NpcPosition": {
+      "X": -138739.0,
+      "Y": 809.27301025391,
+      "Z": 121969.0
+    },
+    "SecondsBetweenTries": 3000
+  }
+}
