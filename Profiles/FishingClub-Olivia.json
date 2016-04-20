@@ -5,11 +5,11 @@
     "Z": 175163.421875
   },
   "FishSpotRotation": 3.884046792984,
-  "RepairNpcName": "",
+  "RepairNpcName": "Curtis",
   "RepairNpcPosition": {
-    "X": 0,
-    "Y": 0,
-    "Z": 0
+    "X": -143413.0,
+    "Y": 1002.299987793,
+    "Z": 125030.0
   },
   "TradeManagerNpcName": "Lolly",
   "TradeManagerNpcPosition": {
