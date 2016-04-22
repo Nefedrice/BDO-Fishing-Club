@@ -43,11 +43,11 @@
   },
   "PrintConsoleState": true,
   "RepairSettings": {
-    "NpcName": "",
+    "NpcName": "Curtis",
     "NpcPosition": {
-      "X": 0,
-      "Y": 0,
-      "Z": 0
+      "X": -143413.0,
+      "Y": 1002.299987793,
+      "Z": 125030.0
     },
     "SecondsBetweenTries": 3000
   },

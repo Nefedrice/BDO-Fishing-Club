@@ -1,10 +1,10 @@
 {
   "FishSpotPosition": {
-    "X": -185923.28125,
-    "Y": -8245.259765625,
-    "Z": 175163.421875
+    "X": -186405.9375,
+    "Y": -8207.3291015625,
+    "Z": 174659.625
   },
-  "FishSpotRotation": 3.884046792984,
+  "FishSpotRotation": 4.5826392173767,
   "RepairNpcName": "Curtis",
   "RepairNpcPosition": {
     "X": -143413.0,
